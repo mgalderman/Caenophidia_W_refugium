@@ -7,6 +7,8 @@ Lists and reference files can be found in the resources directory. Shell and Pyt
 
 Feel free to email me at hbs5rf[at]virginia.edu with any questions.
 
+Visit the [Wiki](https://github.com/mgalderman/Caenophidia_W_refugium.wiki.git) page to see scripts and code associated with this project! 
+
 ## Contents
 
 * Software and dependencies
