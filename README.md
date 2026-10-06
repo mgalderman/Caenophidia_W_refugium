@@ -21,29 +21,3 @@ Visit the [Wiki](https://github.com/mgalderman/Caenophidia_W_refugium/wiki) page
 * Full-length element annotation
 * Refugium and toxicity index analyses
 * TE expression for dysregulation
-
-## Software and dependencies
-
-The analysis sections below use the following software and dependencies and assume they are on the user path:
-
-* FastQC
-* MultiQC
-* NCBI BLAST
-* MashMap
-* SRA toolkit
-* Maker
-* RepeatModeler2
-* Repeatmasker
-* trimmomatic
-* bwa
-* samtools
-* bedtools
-* mosdepth
-* GenomeTools
-* HMMER
-* STAR
-* sed
-* featureCounts
-* R
-  
-Note, I installed a number of these programs to my conda environment.
